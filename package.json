@@ -1,0 +1,12 @@
+{
+  "name": "apifilelogger",
+  "version": "1.1.0",
+  "description": "A custom API logging library",
+  "main": "filelogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sathwik Gaddi",
+  "license": "ISC"
+}

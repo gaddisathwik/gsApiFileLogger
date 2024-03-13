@@ -1,0 +1,28 @@
+[2023-09-21T21:03:10.018Z] [INFO] GET /
+[2023-09-21T21:03:10.048Z] [INFO] message++++++ Response sent with status code200
+[2023-09-22T22:47:17.925Z] [INFO] GET /success
+[2023-09-22T22:47:17.943Z] [INFO] message  ---------------- Response sent with status code  200
+[2023-09-22T22:47:52.028Z] [INFO] GET /notfound
+[2023-09-22T22:47:52.029Z] [WARN] message  ---------------- Response sent with status code  404
+[2023-09-22T22:48:44.413Z] [INFO] GET /notfound
+[2023-09-22T22:48:44.414Z] [WARN] message  ---------------- Response sent with status code  404
+[2023-09-22T22:49:00.401Z] [INFO] Request 
+ GET /notfound
+[2023-09-22T22:49:00.409Z] [WARN] Response message  ---------------- Response sent with status code  404
+[2023-09-22T22:49:41.349Z] [INFO] RESQUEST ==> 
+ GET /notfound
+[2023-09-22T22:49:41.360Z] [WARN] RESPONSE ==> message  ---------------- Response sent with status code  404
+[2023-09-22T22:56:29.560Z] GET /notfound
+[2023-09-22T22:56:29.570Z] [WARN] Response sent with status 404
+[2023-09-22T22:56:34.767Z] GET /special
+[2023-09-22T22:56:34.768Z] [INFO] Response sent with status 200
+[2023-09-22T22:57:12.819Z] GET /api/special
+[2023-09-22T22:57:12.823Z] [INFO] Response sent with status 200
+[2023-09-22T22:58:13.679Z] GET /api/special
+[2023-09-22T22:58:13.686Z] [INFO] Response sent with status 200
+[2023-09-22T22:59:33.679Z] GET /api/special
+[2023-09-22T22:59:33.684Z] [INFO] Response sent with status 200
+[2023-09-22T22:59:53.355Z] GET /api/special
+[2023-09-22T22:59:53.359Z] [INFO] Response sent with status 200
+[2023-09-22T23:00:25.303Z] GET /api/special
+[2023-09-22T23:00:25.310Z] [INFO] Response sent with status 200
