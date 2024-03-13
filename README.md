@@ -69,4 +69,4 @@ Sathwik Gaddi
 Node.js Community
 
 ## Support and Contact
-For support or inquiries, please contact gaddisathwik@gmail.com.
+For support or inquiries, please contact sathwikgg98@gmail.com.
